@@ -1,3 +1,3 @@
 export const greetings = () => {
-    console.log("Good Morning!");
+    console.log("Good Morning");
 };

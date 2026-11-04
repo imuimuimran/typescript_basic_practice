@@ -1,3 +1,8 @@
 import { greetings } from "./greetings.js";
-console.log("Hello TypeScript!");
+import { union, identity, roles, userIfno } from "./union.js";
+// console.log("Hello User")
+roles();
 greetings();
+union();
+identity();
+userIfno();
